@@ -1,1 +1,1 @@
-const str = 'This is backend project version 1.0.2';
+const str = 'This is backend project version 2';
