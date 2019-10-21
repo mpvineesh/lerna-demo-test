@@ -2,5 +2,11 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "cacheDir": ".changelog",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  }
 }
